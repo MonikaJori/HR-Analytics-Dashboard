@@ -27,3 +27,11 @@ Developed a comprehensive HR Analytics Dashboard using Power BI to transform raw
 ## Business Impact
 
 The dashboard helps organizations identify employee retention challenges, monitor workforce trends, evaluate compensation fairness, and support strategic HR decision-making through data-driven insights.
+
+
+## Note
+
+Due to GitHub file size limitations, the original Power BI (.pbix) file is not included in this repository. Dashboard screenshots and PDF reports have been provided to demonstrate the project’s functionality, insights, and visualizations.
+
+For a detailed project walkthrough, please refer to the uploaded PDF report and dashboard preview images.
+

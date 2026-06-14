@@ -28,6 +28,23 @@ Developed a comprehensive HR Analytics Dashboard using Power BI to transform raw
 
 The dashboard helps organizations identify employee retention challenges, monitor workforce trends, evaluate compensation fairness, and support strategic HR decision-making through data-driven insights.
 
+## Dashboard Preview
+
+### Employee Overview
+![Employee Overview](Screenshot_Employee_Overview.png)
+
+### Attrition Analysis
+![Attrition Analysis](Screenshot_page2.png)
+
+### Compensation & Salary Analysis
+![Compensation](Screenshot_page3.png)
+
+### Performance & Training Analysis
+![Performance](Screenshot_page4.png)
+
+### Recruitment & Diversity Analysis
+![Recruitment](Screenshot_page5.png)
+
 
 ## Note
 
